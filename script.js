@@ -17,4 +17,3 @@
             header.classList.remove('active')
         }
     }
-

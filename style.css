@@ -186,6 +186,8 @@ section{
     }
 }
 
+
+
 @media (max-width:768px) {
     #menu-btn{
         display: inline-block;
@@ -212,6 +214,9 @@ section{
         font-size: 4rem;
     }
 
+    .home .flex .content h3{
+        font-size: 3.5rem;
+    }
 }
 
 @media (max-width:450px) {
