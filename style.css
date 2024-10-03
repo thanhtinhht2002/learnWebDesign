@@ -88,6 +88,18 @@ section{
 .btn:hover{
     color: var(--white);
 }
+.heading{
+    margin-bottom: 2rem;
+    text-align: center;
+    font-size: 4rem;
+    color:var(--white);
+    text-transform: uppercase;
+}
+
+.heading span{
+    color:var(--main-color);
+    text-transform: uppercase;
+}
 
 .header{
     position: fixed;
@@ -188,6 +200,27 @@ section{
     line-height: 1.8;
 }
 /* #endregion  */
+.features .box-container{
+    display: grid;
+    grid-template-columns: repeat(autto-fit,35rem);
+    gap: 2rem;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
