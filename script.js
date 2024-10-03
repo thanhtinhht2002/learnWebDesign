@@ -9,7 +9,6 @@
     window.onscroll = () => {
         navbar.classList.remove('active');
         menuBtn.classList.remove('fa-times');
-
         if(window.scrollY >0){
             header.classList.add('active')
         }
